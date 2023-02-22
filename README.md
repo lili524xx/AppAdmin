@@ -44,3 +44,13 @@ settings：项目配置项文件</br>
 ### 4.后台路由
 <img width="802" alt="A6A3009EF1FB97CB4E96B0E5EA098F93" src="https://user-images.githubusercontent.com/119716216/220268282-7bfe3c38-9cb6-4872-9565-2939190f1c5c.png">
 
+git clone https://github.com/bailicangdu/vue2-manage  
+
+cd app  
+
+npm install 或 yarn(推荐)
+
+npm run dev (访问线上后台系统)
+
+
+访问: http://localhost:8002
