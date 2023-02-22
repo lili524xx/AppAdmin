@@ -14,13 +14,13 @@
 build</br>
      ----index.js webpack配置文件【很少修改这个文件】</br>
 mock</br>
-    ----mock数据的文件夹【模拟一些假的数据mockjs实现的】，因为咱们实际开发的时候，利用的是真是接口</br>
+    ----mock数据的文件夹</br>
 
 node_modules</br>
      ------项目依赖的模块</br>
 
 public</br>
-     ------ico图标,静态页面，publick文件夹里面经常放置一些静态资源，而且在项目打包的时候webpack不会编译这个文件夹，原封不动的打包到dist文件夹里面</br>
+     ------ico图标,静态页面</br>
 
 src</br>
     -----程序员源代码的地方</br>
@@ -54,5 +54,5 @@ npm run dev (访问线上后台系统)
 
 
 访问: http://localhost:9529
-####点击演示
-<a href="http://localhost:9529">请点击演示</a>
+#### 点击演示</br>
+<a href="http://localhost:9529">查看效果</a>
